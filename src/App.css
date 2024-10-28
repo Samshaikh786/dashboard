@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.card, .table {
+  border-color: #333333; /* Darker border */
+}
